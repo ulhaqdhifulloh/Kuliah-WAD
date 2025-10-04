@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Persobal Web - <?php echo "Dhifulloh Dhiya Ulhaq"; ?></title>
+    <title>Personal Web - <?php echo "Dhifulloh Dhiya Ulhaq"; ?></title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
