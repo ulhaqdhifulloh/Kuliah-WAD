@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items:  center;
+    height: 120vh;
+}
+
+.container {
+    text-align: center;
+    background: white;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 4px 15px rgb(0,0,0,0.1);
+    width: 400px;
+}
+
+.photo {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+h1 {
+    margin: 15px 0 5px;
+}
+
+p {
+    color: #555;
+    line-height: 1.5;
+}
+
+.about p {
+    text-align: justify;
+    margin-top: 5px;
+}
+
+.about h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 0px;
+    border-bottom: 2px solid #eee;
+    display: inline-block;
+    padding-bottom: 3px;
+}
+
+.socmed {
+    margin-top: 50px;
+}
+
+.socmed a img{
+    width: 40px;
+    margin: 0 8px;
+    transition: transform 0.2s;
+}
+
+.socmed a img:hover {
+    transform: scale(1.2);
+}
+
+footer {
+    margin-top: 30px;
+    font-size: 12px;
+    color: #aaa;
+}
+
